@@ -42,10 +42,6 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="50"/>
 </a>
 
-<a href="https://www.webofscience.com/wos/author/record/PTF-4856-2026?state=%7B%7D" target="_blank" style="text-decoration:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Web_of_Science_logo.png" width="50"/>
-</a>
-
 </p>
 
 ---
