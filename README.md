@@ -28,15 +28,17 @@ AI-based image processing and related applications. I have gained experience thr
 ---
 
 ## 📚 Publications & Research
-- RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
-- Understanding the Traffic Sign through a Deep CNN Architecture
-<a href="https://aetic.theiaer.org/archive/v10/v10n2/p3.html" target="_blank">
-  <img src="./icons8-link-100.png" width="20"/>
-</a>
+## 📚 Publications & Research
 
-- Enhanced plant health monitoring with dual head CNN for leaf classification and disease identification
-- Enhanced human activity recognition through deep multi-layer perceptron on the UCI-HAR dataset
-- Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis
+- RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
+
+- Understanding the Traffic Sign through a Deep CNN Architecture <a href="https://aetic.theiaer.org/archive/v10/v10n2/p3.html"><img src="./icons8-link-100.png" width="16"></a>
+
+- Enhanced Plant Health Monitoring with Dual Head CNN for Leaf Classification and Disease Identification <a href="https://doi.org/10.1016/j.jafr.2025.101930"><img src="./icons8-link-100.png" width="16"></a>
+
+- Enhanced Human Activity Recognition through Deep Multi-Layer Perceptron on the UCI-HAR Dataset <a href="http://doi.org/10.11591/ijaas.v13.i2.pp429-438"><img src="./icons8-link-100.png" width="16"></a>
+
+- Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis <a href="https://doi.org/10.1109/ICRPSET64863.2024.10955913"><img src="./icons8-link-100.png" width="16"></a>
 
 ---
 
