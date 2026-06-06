@@ -12,7 +12,8 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 
 ## 👩‍💻 About Me
 
-This is Naima Islam, a self-motivated and hardworking individual with a strong passion for learning and personal growth. I have a deep interest in pursuing research in artificial intelligence, aiming to develop innovative solutions that can contribute positively to society. My primary research interests lie in AI-based image processing and related applications. I have gained experience through conducting and publishing several AI-related research papers in different international journals. My long-term goal is to pursue a PhD in AI-driven healthcare systems and contribute to solving real-world challenges through innovative research that can bring meaningful solutions to the world.
+This is Naima Islam, a self-motivated and hardworking individual with a strong passion for learning and personal growth. I have a deep interest in pursuing research in artificial intelligence, aiming to develop innovative solutions that can contribute positively to society. My primary research interests lie in 
+AI-based image processing and related applications. I have gained experience through conducting and publishing several AI-related research papers in different international journals. My long-term goal is to pursue a PhD in AI-driven healthcare systems and contribute to solving real-world challenges through innovative research that can bring meaningful solutions to the world.
 
 ---
 
