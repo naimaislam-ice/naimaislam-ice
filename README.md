@@ -9,18 +9,31 @@
 AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 </h3>
 
+
+## 👩‍💻 About Me
+
+This is Naima Islam, a self-motivated and hardworking individual with a strong passion for learning and personal growth. I have a deep interest in pursuing research in artificial intelligence, aiming to develop innovative solutions that can contribute positively to society. My primary research interests lie in AI-based image processing and related applications. I have gained experience through conducting and publishing several AI-related research papers in different international journals. My long-term goal is to pursue a PhD in AI-driven healthcare systems and contribute to solving real-world challenges through innovative research that can bring meaningful solutions to the world.
+
 ---
 
-- 🔭 I’m currently working on **AI & Computer Vision Projects**
+- 🔬 I’m currently working on **AI & Computer Vision Projects**
 - 🌱 I’m learning **Deep Learning and NLP**
-- 👯 I’m looking to collaborate on **Research Projects**
+- 🤝 I’m looking to collaborate on **Research Projects**
+- 🎓 Preparing for PhD opportunities
 - 💬 Ask me about **CNN, ViT, ML, DL**
 - 📫 Reach me at **naimaislam.ice@gmail.com**
 - ⚡ Fun fact: **I think I’m a kind-hearted person 😁😉**
 
 ---
 
+## 📚 Publications & Research
+- RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
+- Understanding the Traffic Sign through a Deep CNN Architecture
+- Enhanced plant health monitoring with dual head CNN for leaf classification and disease identification
+- Enhanced human activity recognition through deep multi-layer perceptron on the UCI-HAR dataset
+- Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis
 
+---
 
 ## 🌐 Connect with me
 
