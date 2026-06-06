@@ -28,7 +28,6 @@ AI-based image processing and related applications. I have gained experience thr
 ---
 
 ## 📚 Publications & Research
-## 📚 Publications & Research
 
 - RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
 
