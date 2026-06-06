@@ -30,6 +30,10 @@ AI-based image processing and related applications. I have gained experience thr
 ## 📚 Publications & Research
 - RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
 - Understanding the Traffic Sign through a Deep CNN Architecture
+<a href="https://aetic.theiaer.org/archive/v10/v10n2/p3.html" target="_blank">
+  <img src="./icons8-link-100.png" width="20"/>
+</a>
+
 - Enhanced plant health monitoring with dual head CNN for leaf classification and disease identification
 - Enhanced human activity recognition through deep multi-layer perceptron on the UCI-HAR dataset
 - Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis
