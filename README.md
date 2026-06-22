@@ -29,7 +29,7 @@ AI-based image processing and related applications. I have gained experience thr
 
 ## 📚 Publications & Research
 
-- RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification
+- RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification <a href="https://doi.org/10.1007/s00521-026-12290-x"><img src="./icons8-link-100.png" width="16"></a>
 
 - Understanding the Traffic Sign through a Deep CNN Architecture <a href="https://aetic.theiaer.org/archive/v10/v10n2/p3.html"><img src="./icons8-link-100.png" width="16"></a>
 
